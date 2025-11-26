@@ -23,7 +23,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📖 Educations
 - **2024.09 - now**, Ph.D. in Information and Communication Engineering, **Zhejiang University**, College of Information Science and Electronic Engineering. 
-- **2020.09 - 2024.06**, B.S. in Electronic Information Engineering, **Nanjing University of Science and Technology**, School of Electronic and Optical Engineering. 
+- **2020.09 - 2024.06**, B.Eng. in Electronic Information Engineering, **Nanjing University of Science and Technology**, School of Electronic and Optical Engineering. 
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
